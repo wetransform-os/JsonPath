@@ -1,4 +1,4 @@
-description = "Java port of Stefan Goessner JsonPath."
+description = "Java port of Stefan Goessner JsonPath forked from Jayway JsonPath."
 
 jar {
     bnd(

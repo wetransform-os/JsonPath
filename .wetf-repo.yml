@@ -9,3 +9,5 @@ presets:
 workflows:
   presets:
     - java-17
+    - multi-module
+

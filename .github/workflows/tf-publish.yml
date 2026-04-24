@@ -22,7 +22,7 @@ jobs:
     uses: wetransform/gha-workflows/.github/workflows/gradle-library-publish.yml@109404d78d84f07b3bb374a8171f8df4c13a7e88 # v4.1.4
     with:
       java-version: 17
-      multi-module: false
+      multi-module: true
       semantic-release: false
       skip-scan: false
     secrets:

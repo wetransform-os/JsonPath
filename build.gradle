@@ -68,6 +68,7 @@ subprojects {
     apply plugin: 'maven-publish'
     apply plugin: 'signing'
     apply plugin: 'biz.aQute.bnd.builder'
+    apply plugin: 'to.wetransform.semantic-release-version'
 
     java {
         toolchain {

@@ -171,6 +171,6 @@ subprojects {
 }
 
 wrapper {
-    gradleVersion = '8.5'
+    gradleVersion = '9.7.1'
 }
 
